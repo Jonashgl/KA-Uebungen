@@ -9,7 +9,7 @@ namespace ZinsKAÜbung
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             string a = "Jahr"; string b = "Guthaben"; string c = "Zinsen"; string d = "K-Zinsen"; string e = "Bilanz";
 
             Console.WriteLine("Geben Sie Ihr Kapital an.");
