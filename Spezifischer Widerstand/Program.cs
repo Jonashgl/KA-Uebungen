@@ -6,8 +6,8 @@ namespace Spezifischer_Widerstand
     {
         static void Main(string[] args)
         {
-            int Schrittgroese = Convert.ToInt32(Console.ReadLine());
-            int abstand = Convert.ToInt32(Console.ReadLine());
+            double Schrittgroese = Convert.ToInt32(Console.ReadLine());
+            double abstand = Convert.ToInt32(Console.ReadLine());
 
             const double p = 0.017;
             const double A = 0.068;
@@ -16,6 +16,12 @@ namespace Spezifischer_Widerstand
 
 
             Console.WriteLine("{0,7}{1,13}",y,x);
+
+            for(double l = 0;l<=abstand;l=l+Schrittgroese)
+            {
+                double R = p * (l / A);
+                Console.WriteLine($"{l,7}{R,13:F2}");
+            }
 
         }
     }
