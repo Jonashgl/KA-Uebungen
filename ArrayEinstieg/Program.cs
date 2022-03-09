@@ -28,5 +28,6 @@ namespace ArrayEinstieg
             }
             Console.ReadKey();
         }
+        // Erarbeitet von Ahmad und Högele
     }
 }
