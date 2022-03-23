@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spezifischer Widerstand", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alterbestätigung", "Alterbestätigung\Alterbestätigung.csproj", "{15187C38-8724-4358-A6E5-A55C6EDAB59C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayEinstieg", "ArrayEinstieg\ArrayEinstieg.csproj", "{D762BDE7-59DE-4404-8C4E-02F9E8180539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayEinstieg", "ArrayEinstieg\ArrayEinstieg.csproj", "{D762BDE7-59DE-4404-8C4E-02F9E8180539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden", "Methoden\Methoden.csproj", "{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D762BDE7-59DE-4404-8C4E-02F9E8180539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D762BDE7-59DE-4404-8C4E-02F9E8180539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D762BDE7-59DE-4404-8C4E-02F9E8180539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
