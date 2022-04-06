@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alterbestätigung", "Alterb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayEinstieg", "ArrayEinstieg\ArrayEinstieg.csproj", "{D762BDE7-59DE-4404-8C4E-02F9E8180539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden", "Methoden\Methoden.csproj", "{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methoden", "Methoden\Methoden.csproj", "{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel Check", "Hotel Check\Hotel Check.csproj", "{F8CD8E08-A538-42DD-AD95-6B716D487D85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03224D07-5952-4A6D-9EF5-D44D2E0FEA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CD8E08-A538-42DD-AD95-6B716D487D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CD8E08-A538-42DD-AD95-6B716D487D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CD8E08-A538-42DD-AD95-6B716D487D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CD8E08-A538-42DD-AD95-6B716D487D85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
