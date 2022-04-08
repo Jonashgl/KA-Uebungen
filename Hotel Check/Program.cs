@@ -7,6 +7,8 @@ namespace Hotel_Check
     {
         static void Main(string[] args)
         {
+            // ARAD AHMAD UND JONAS HÖGELE ZUSAMMEN BEARBEITET
+
             short[] Zimmernummer = { 45, 23, 3, 32 };
             string[] Vorname = { "John", "Paul", "George", "Ringo" };
             string[] Nachname = { "Lennon", "McCartney", "Harrison", "Starr" };
